@@ -1,6 +1,7 @@
 # NetBeans
 nbproject/private/
 build/
+dist/
 nbbuild/
 .nb-gradle/
 
