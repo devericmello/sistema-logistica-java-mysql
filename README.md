@@ -20,6 +20,8 @@ O sistema foi criado para ajudar estudantes da área de logística a treinar as 
 - JDK instalado
 - NetBeans
 - MySQL/MariaDB (Workbench ou phpMyAdmin)
-- Flatlaf-3.6
-- mysql-connector-j-9.3.0
-- Absolute Layout - AbsoluteLayout.jar
+
+## 📦 Dependências (NetBeans)
+- FlatLaf 3.6
+- MySQL Connector/J 9.3.0
+- Absolute Layout (AbsoluteLayout.jar)
