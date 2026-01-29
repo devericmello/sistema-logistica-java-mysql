@@ -1,6 +1,6 @@
 # 🚚 Sistema de Logística (Java + MySQL)
 
-Projeto desenvolvido no **SENAI** integrando aplicação em **Java (NetBeans)** com banco **MySQL/MariaDB**.f
+Projeto desenvolvido no **SENAI** integrando aplicação em **Java (NetBeans)** com banco **MySQL/MariaDB**.
 
 ## ✨ Visão geral
 Sistema com foco em processos de logística e controle, utilizando arquitetura com **DAO** e telas em **GUI (NetBeans Forms)**.
