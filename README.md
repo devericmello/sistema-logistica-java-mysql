@@ -25,3 +25,9 @@ O sistema foi criado para ajudar estudantes da área de logística a treinar as 
 - FlatLaf 3.6
 - MySQL Connector/J 9.3.0
 - Absolute Layout (AbsoluteLayout.jar)
+
+## 📷 Telas do Sistema
+![Tela de Login](assets/tela1.png)
+![Tela de Menu do Aluno](assets/tela2.png)
+![Tela de Avaliação](assets/tela3.png)
+![Tela de Adição de Avaliação (Menu do Professor)](assets/tela4.png)
